@@ -1,0 +1,10 @@
+1.Boostrap
+
+Boostrap = HTML,CSS,JavaScript
+Customize= SASS
+
+2.Requirement installation
+  1.Editor (Vs Code,Sublime Text, Atom....)
+  2.Browser(Firefox,Chrome,...)
+  3.Npm(node package manager "Node js")
+  4.Git Branch (Only for Window User ,Linux and Mac users are not necessary to install)  
